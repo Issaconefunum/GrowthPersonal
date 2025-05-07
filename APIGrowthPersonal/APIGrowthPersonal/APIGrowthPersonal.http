@@ -1,0 +1,6 @@
+@APIGrowthPersonal_HostAddress = http://localhost:5228
+
+GET {{APIGrowthPersonal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
