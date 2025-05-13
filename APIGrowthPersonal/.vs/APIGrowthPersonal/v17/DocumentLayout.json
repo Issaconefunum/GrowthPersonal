@@ -1,12 +1,251 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\controllers\\characteristicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\controllers\\characteristicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\controllers\\usertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\controllers\\usertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Data\\Migrations\\20250513103838_InitialIdentitySchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIGrowthPersonal\\Data\\Migrations\\20250513103838_InitialIdentitySchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\apigrowthpersonal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\apigrowthpersonal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|c:\\users\\danya\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\growthpersonal\\apigrowthpersonal\\apigrowthpersonal\\models\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD27F205-B95B-4079-95D4-2893AD72219A}|APIGrowthPersonal\\APIGrowthPersonal.csproj|solutionrelative:apigrowthpersonal\\models\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "APIGrowthPersonal\\Controllers\\ClassesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:04:25.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "APIGrowthPersonal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:03:23.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacteristicsController.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Controllers\\CharacteristicsController.cs",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\Controllers\\CharacteristicsController.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Controllers\\CharacteristicsController.cs",
+              "RelativeToolTip": "APIGrowthPersonal\\Controllers\\CharacteristicsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:01:14.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "APIGrowthPersonal\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:53:51.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250513103838_InitialIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Data\\Migrations\\20250513103838_InitialIdentitySchema.cs",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\Data\\Migrations\\20250513103838_InitialIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Data\\Migrations\\20250513103838_InitialIdentitySchema.cs",
+              "RelativeToolTip": "APIGrowthPersonal\\Data\\Migrations\\20250513103838_InitialIdentitySchema.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:38:38.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "APIGrowthPersonal\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:48:44.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "APIGrowthPersonal\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:59:25.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Models\\Classes.cs",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\Models\\Classes.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Models\\Classes.cs",
+              "RelativeToolTip": "APIGrowthPersonal\\Models\\Classes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:02:07.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Models\\User.cs",
+              "RelativeToolTip": "APIGrowthPersonal\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:18:23.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserTaskController.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Controllers\\UserTaskController.cs",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\Controllers\\UserTaskController.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Controllers\\UserTaskController.cs",
+              "RelativeToolTip": "APIGrowthPersonal\\Controllers\\UserTaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:15:51.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Program.cs",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\Program.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Program.cs",
+              "RelativeToolTip": "APIGrowthPersonal\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:14:56.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserTask.cs",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Models\\UserTask.cs",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\Models\\UserTask.cs",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\Models\\UserTask.cs",
+              "RelativeToolTip": "APIGrowthPersonal\\Models\\UserTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:14:08.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APIGrowthPersonal.csproj",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal.csproj",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\APIGrowthPersonal.csproj",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal.csproj",
+              "RelativeToolTip": "APIGrowthPersonal\\APIGrowthPersonal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T06:11:50.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\appsettings.json",
+              "RelativeDocumentMoniker": "APIGrowthPersonal\\appsettings.json",
+              "ToolTip": "C:\\Users\\danya\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\GrowthPersonal\\APIGrowthPersonal\\APIGrowthPersonal\\appsettings.json",
+              "RelativeToolTip": "APIGrowthPersonal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T06:09:32.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

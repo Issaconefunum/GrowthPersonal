@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIGrowthPersonal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c64cc5336bab58c6c012b5c4862110248114ab48")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIGrowthPersonal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIGrowthPersonal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

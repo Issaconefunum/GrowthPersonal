@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5hsf1l1FZtRsgv2mlct+qjh7T6jK6C9HoLZ+oeRvYJA=",
+  "Source": "APIGrowthPersonal",
+  "BasePath": "_content/APIGrowthPersonal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
